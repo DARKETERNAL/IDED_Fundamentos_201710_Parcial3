@@ -8,12 +8,13 @@ Parcial 3
 Fecha: Abril 21 de 2017
 Profesor: Andrés Pérez Campillo
 
-###################################################################
+-------------------------------------------------------------------
 Nombre: (Edite este archivo llenando este dato)
-ID: (Edite este archivo llenando este dato)
-###################################################################
 
-#NOTAS PREVIAS
+ID: (Edite este archivo llenando este dato)
+-------------------------------------------------------------------
+
+NOTAS PREVIAS
 
 1. Por favor LEA TODO EL ENUNCIADO ANTES DE RESPONDER cualquier pregunta. Si existe alguna imprecisión frente a la redacción que pueda sugerir ambigüedad en la pregunta o si el enunciado contiene preguntas sobre elementos no tratados en clase, hacer la observación pública y el profesor la resolverá.
 2. NO SE ADMITE NINGÚN SOPORTE distinto al que el profesor haya autorizado previamente.
