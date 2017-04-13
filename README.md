@@ -1,17 +1,22 @@
 # IDED_Fundamentos_201710_Parcial3
 
 Universidad Pontificia Bolivariana
+
 Ingeniería en Diseño de Entretenimiento Digital
+
 Fundamentos de Programación
 
 Parcial 3
+
 Fecha: Abril 21 de 2017
+
 Profesor: Andrés Pérez Campillo
 
 -------------------------------------------------------------------
 Nombre: (Edite este archivo llenando este dato)
 
 ID: (Edite este archivo llenando este dato)
+
 -------------------------------------------------------------------
 
 NOTAS PREVIAS
